@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicQuote2</string>
+    <string name="intro">Enter your name and select photo to upload</string>
+    <string name="quoteMe">Click Quote Me to get a quote</string>
+</resources>
